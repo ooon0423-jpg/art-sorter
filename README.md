@@ -79,6 +79,9 @@ Duplicates are found with a perceptual hash, so size and format changes do not h
 - [Sort anime and fan art images by character](https://orilabs.studio/artsorter/guides/sort-by-character/?utm_source=github)
 - [Eagle alternative for large illustration folders](https://orilabs.studio/artsorter/guides/eagle-alternative/?utm_source=github)
 - [Hydrus alternative without the learning curve](https://orilabs.studio/artsorter/guides/hydrus-alternative/?utm_source=github)
+- [Organize images downloaded with gallery-dl](https://orilabs.studio/artsorter/guides/organize-gallery-dl-downloads/?utm_source=github)
+- [Organize Patreon and FANBOX reward packs](https://orilabs.studio/artsorter/guides/organize-patreon-fanbox-packs/?utm_source=github)
+- [Organize images saved from Pixiv](https://orilabs.studio/artsorter/guides/organize-pixiv-collection/?utm_source=github)
 
 ## Feedback and bug reports
 

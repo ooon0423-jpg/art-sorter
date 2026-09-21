@@ -62,6 +62,9 @@ Art SorterはWebサービスではなくデスクトップアプリです。ア�
 - [アニメ・ファンアートをキャラクターごとに自動で整理する](https://orilabs.studio/artsorter/ja/guides/sort-by-character/?utm_source=github)
 - [Eagleの代わりになるソフト](https://orilabs.studio/artsorter/ja/guides/eagle-alternative/?utm_source=github)
 - [Hydrusの代わりになるソフト](https://orilabs.studio/artsorter/ja/guides/hydrus-alternative/?utm_source=github)
+- [gallery-dlで保存した画像を整理する](https://orilabs.studio/artsorter/ja/guides/organize-gallery-dl-downloads/?utm_source=github)
+- [Patreon・FANBOXの支援特典パックを整理する](https://orilabs.studio/artsorter/ja/guides/organize-patreon-fanbox-packs/?utm_source=github)
+- [pixivで保存したイラストを整理する](https://orilabs.studio/artsorter/ja/guides/organize-pixiv-collection/?utm_source=github)
 
 ## 問い合わせと不具合の報告
 

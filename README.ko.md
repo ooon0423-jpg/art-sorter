@@ -62,6 +62,9 @@ Art Sorter는 웹 서비스가 아니라 PC 프로그램입니다. 가입도 업
 - [애니·팬아트 그림을 캐릭터별로 자동 정리하기](https://orilabs.studio/artsorter/ko/guides/sort-by-character/?utm_source=github)
 - [Eagle 대신 쓸 만한 프로그램](https://orilabs.studio/artsorter/ko/guides/eagle-alternative/?utm_source=github)
 - [Hydrus 대신 쓸 만한 프로그램](https://orilabs.studio/artsorter/ko/guides/hydrus-alternative/?utm_source=github)
+- [gallery-dl로 받은 그림 정리하기](https://orilabs.studio/artsorter/ko/guides/organize-gallery-dl-downloads/?utm_source=github)
+- [패트리온·팬박스 후원 팩 정리하기](https://orilabs.studio/artsorter/ko/guides/organize-patreon-fanbox-packs/?utm_source=github)
+- [픽시브에서 저장한 그림 정리하기](https://orilabs.studio/artsorter/ko/guides/organize-pixiv-collection/?utm_source=github)
 
 ## 문의와 오류 제보
 

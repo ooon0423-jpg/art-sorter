@@ -62,6 +62,9 @@ Art Sorter 是桌面软件，不是网络服务。无需注册，也不上传。
 - [按角色自动整理动漫图和同人图](https://orilabs.studio/artsorter/zh/guides/sort-by-character/?utm_source=github)
 - [Eagle 替代软件](https://orilabs.studio/artsorter/zh/guides/eagle-alternative/?utm_source=github)
 - [Hydrus 替代软件](https://orilabs.studio/artsorter/zh/guides/hydrus-alternative/?utm_source=github)
+- [整理用 gallery-dl 下载的图片](https://orilabs.studio/artsorter/zh/guides/organize-gallery-dl-downloads/?utm_source=github)
+- [整理 Patreon、FANBOX 赞助回报图包](https://orilabs.studio/artsorter/zh/guides/organize-patreon-fanbox-packs/?utm_source=github)
+- [整理从 pixiv 保存的插画](https://orilabs.studio/artsorter/zh/guides/organize-pixiv-collection/?utm_source=github)
 
 ## 反馈和问题报告
 
