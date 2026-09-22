@@ -51,7 +51,8 @@ Art Sorter 是桌面软件，不是网络服务。无需注册，也不上传。
 
 ## 价格
 
-- **前 300 张免费**。无需注册，无需绑卡。
+- **免费试用会整理整个文件夹**并展示结果；其中 300 张保留原图，其余在购买前为低分辨率预览。原文件不会被移动或修改。无需注册，无需绑卡。
+- 也可从 [Microsoft Store](https://apps.microsoft.com/detail/9MSZX5KNTVR0?cid=github) 获取（安装时没有 Windows 警告画面）。
 - 之后是**买断**（不是订阅）。一个授权码对应一台电脑，所有更新都包含。
 - 当前价格请看[官网价格栏](https://orilabs.studio/artsorter/zh/?utm_source=github#pricing)。
 

@@ -51,7 +51,8 @@ Art Sorter는 웹 서비스가 아니라 PC 프로그램입니다. 가입도 업
 
 ## 가격
 
-- **처음 300장은 무료**입니다. 가입도 카드도 필요 없습니다.
+- **무료 체험이 폴더 전체를 정리해** 결과를 보여 줍니다. 300장은 원본으로 남기고, 나머지는 구매 전까지 저해상도 미리보기입니다. 원본 파일은 옮기거나 바꾸지 않습니다. 가입도 카드도 필요 없습니다.
+- [Microsoft Store](https://apps.microsoft.com/detail/9MSZX5KNTVR0?cid=github)에서도 받을 수 있습니다(Windows 경고 화면 없이 설치).
 - 그 뒤에는 **한 번 구매**(구독 아님). 키 하나에 PC 한 대, 업데이트 전부 포함.
 - 지금 가격은 [홈페이지 가격 칸](https://orilabs.studio/artsorter/ko/?utm_source=github#pricing)에서 보실 수 있습니다.
 

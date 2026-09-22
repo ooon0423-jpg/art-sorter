@@ -58,7 +58,8 @@ What goes online without asking: update checks, that one-time model download, an
 
 ## Pricing
 
-- The first **300 images are free**. No account, no card.
+- The **free trial sorts your whole folder** and shows the result; 300 images are kept in full quality, the rest are low-resolution previews until you buy. Originals are never moved or changed. No account, no card.
+- Also on [Microsoft Store](https://apps.microsoft.com/detail/9MSZX5KNTVR0?cid=github) (installs without the Windows warning screen).
 - After that, a **one-time purchase** (not a subscription). One PC per key, all updates included.
 - See the [pricing section](https://orilabs.studio/artsorter/?utm_source=github#pricing) for the current price.
 
