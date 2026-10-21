@@ -36,6 +36,7 @@ A real run: 113 demo images (3 characters, 4 scenes each) sorted in about two an
 
 ## Who it is for
 
+- People who support several artists on **Patreon, FANBOX or Fantia** and download everything: the artist folders are there, but inside each one the sets, variants and re-downloads are mixed.
 - People who generate a lot with **Stable Diffusion, NovelAI, Midjourney or ComfyUI** and want outputs separated by character and scene.
 - People with thousands of images saved from **X, Pixiv or Discord** under random names.
 - Collectors of **manga panels, CG sets and screenshots** who want them in a chosen order.
