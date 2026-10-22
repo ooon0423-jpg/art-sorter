@@ -2,7 +2,7 @@
 
 <h1 align="center">Art Sorter</h1>
 
-<p align="center"><b>Sort thousands of illustrations, fan art and AI-generated images by character and scene. Fully offline, on Windows.</b></p>
+<p align="center"><b>Sort thousands of illustrations, fan art and AI-generated images by character and scene. Windows app. Image files are never uploaded.</b></p>
 
 <p align="center">
 <a href="https://orilabs.studio/artsorter/?utm_source=github">Website</a> ·
@@ -44,9 +44,9 @@ A real run: 113 demo images (3 characters, 4 scenes each) sorted in about two an
 
 ## Privacy
 
-Art Sorter is a desktop program, not a web service. There is no account and no upload. Images, file names and folder names never leave your PC. After a one-time download of the analysis models on first run, it works with the internet off.
+Art Sorter is a desktop program, not a web service. There is no account, and image files are never uploaded. Character and scene recognition runs on your PC. To put the images in order, the app sends numeric descriptions of them (not the images) to our sorting service, which processes them in memory and does not store them, so sorting needs an internet connection. Full list: [privacy policy](https://orilabs.studio/artsorter/privacy.html).
 
-What goes online without asking: update checks, that one-time model download, and license checks with an anonymous PC code.
+Also online: update checks, a one-time download of the analysis models on first run, and license checks with an anonymous PC code.
 
 ## Requirements
 
